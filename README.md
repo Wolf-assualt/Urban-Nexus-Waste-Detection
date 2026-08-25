@@ -1,5 +1,4 @@
 # Urban-Nexus-Waste-Detection
-# Urban Nexus
 
 **An autonomous floating device that detects, collects, and reports water waste — in oceans, seas, ponds, and drainage systems.**
 
